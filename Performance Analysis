@@ -2,8 +2,9 @@
 http://www.javaperformancetuning.com/resources.shtml
 
 #tools
-Jprofile
 Eclipse Memory Analyzer tool (MAT), https://www.eclipse.org/mat/downloads.php
+Yourkit
+Jprofile
 VisualVM
 GCViewer
 
